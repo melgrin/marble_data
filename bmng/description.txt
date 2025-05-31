@@ -1,0 +1,19 @@
+May, Blue Marble Next Generation
+
+Blue Marble: Next Generation offers greater spatial detail of the surface and spans a longer data collection period than the original. The original Blue Marble was a composite of four months of MODIS observations with a spatial resolution (level of detail) of 1 square kilometer per pixel. Blue Marble: Next Generation offers a years worth of monthly composites at a spatial resolution of 500 meters. These monthly images reveal seasonal changes to the land surface: the green-up and dying-back of vegetation in temperate regions such as North America and Europe, dry and wet seasons in the tropics, and advancing and retreating Northern Hemisphere snow cover. From a computer processing standpoint, the major improvement is the development of a new technique for allowing the computer to automatically recognize and remove cloud-contaminated or otherwise bad data—a process that was previously done manually.
+
+Blue Marble: Next Generation improves the techniques for turning satellite data into digital images. Among the key improvements is greater detail in areas that usually appear very dark to the satellite (because a large amount of sunlight is being absorbed), for example in dense tropical forests. The ability to create a digital image that provides great detail in darker regions without washing out brighter regions, like glaciers, snow-covered areas, and deserts is one of the great challenges of visualizing satellite data. The new version also improves image clarity, and gives highly reflective land surfaces, such as salt flats, a more realistic appearance.
+
+For more information, visit the Blue Marble (http://earthobservatory.nasa.gov/Features/BlueMarble) on the Earth Observatory.
+
+Reto Stöckli, NASA Earth Observatory
+
+Published May 1, 2004
+Data acquired May 1 - 31, 2004
+
+Source:
+    Terra > MODIS
+
+Collection:
+    Blue Marble
+
