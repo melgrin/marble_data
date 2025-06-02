@@ -1,3 +1,5 @@
+Data storage for [marble](https://github.com/melgrin/marble).
+
 # Credits
 
 ## Blue Marble: Next Generation
